@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫Hi, I'm Vanesha
+### About Me:
 🔭 I’m currently an Information Technology student at the Sepuluh Nopember Institute of Technology<br>🌱 I am learning Cybersecurity and Artificial Intelligence<br>💬 I’m also interested in robotics! 🤖<br>⚡ Fun fact: I'm a huge Formula 1 fan 🏎️🏁
 
 
